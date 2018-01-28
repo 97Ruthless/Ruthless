@@ -1,0 +1,15 @@
+CentOS 6+ / Debian 6+ / Ubuntu 14.04 +
+
+推荐 Debian 7 x64，这个是我一直使用的系统，我的脚本在这个系统上面出错率最低。
+
+脚本版本
+Ver: 1.1.3
+
+安装步骤
+执行下面的代码下载并运行脚本。
+
+wget -N --no-check-certificate https://softs.fun/Bash/brook.sh && chmod +x brook.sh && bash brook.sh
+ 
+# 如果上面这个脚本无法下载，尝试使用备用下载：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+运行脚本后会出现脚本操作菜单，选择并输入 1 就会开始安装。
